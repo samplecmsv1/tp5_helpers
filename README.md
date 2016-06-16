@@ -1,4 +1,4 @@
-# thinkphp 5.x widgets支持
+# thinkphp 5.x helpers支持
 
 安装  composer require samplecms/tp5_helpers
 
